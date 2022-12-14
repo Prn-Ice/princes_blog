@@ -63,6 +63,7 @@ codemirror:
 #   hljs: false
 prismjs:
   enable: false
+  # enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
